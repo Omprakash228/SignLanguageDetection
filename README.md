@@ -83,7 +83,3 @@ The training data consists of:
 - 30 sequences per gesture
 - 30 frames per sequence
 - Each frame contains 1662 keypoints (pose: 132, face: 1404, left hand: 63, right hand: 63)
-
-## License
-
-This project is open source and available for educational purposes.
