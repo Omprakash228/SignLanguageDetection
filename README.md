@@ -14,9 +14,7 @@ A real-time sign language detection system that recognizes three sign language g
 
 Watch the demo video to see the sign language detection system in action:
 
-https://github.com/Omprakash228/SignLanguageDetection/raw/main/demo.mp4
-
-You can also view it directly in the repository: [demo.mp4](demo.mp4)
+https://github.com/user-attachments/assets/5456c7ed-13b1-40d7-81b2-39d51ab68a6c
 
 ## Technologies Used
 
